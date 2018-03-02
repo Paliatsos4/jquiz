@@ -23,7 +23,7 @@ MultiPlayer Game Modes
 -Quick Answer Mode (The player who answer first wins the 1000, the other player nothing)
 
 -----------------------------------------------------------------------------------------------------------------------------------
-* The game keeps the highscores solo and multi in txt files inside jar folder*
+* The game keeps the highscores solo and multi in txt files inside jar folder *
 
 ** The whole game was made DYNAMICLY, the concept is that you can REPLACE our questions, images, answers (inside the jar folder) as you like so you can make
 YOUR OWN GAME, keeping our Menu/Gui/GameModes. You just have to replace the data in the folders images, questions, answers accordingly 
